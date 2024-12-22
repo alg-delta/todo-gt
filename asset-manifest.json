@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/todo-gt/static/css/main.9976f68c.css",
+    "main.js": "/todo-gt/static/js/main.4a39cf25.js",
+    "static/js/453.37753ddd.chunk.js": "/todo-gt/static/js/453.37753ddd.chunk.js",
+    "static/media/megaSecret.jpg": "/todo-gt/static/media/megaSecret.689471f1356289f06792.jpg",
+    "index.html": "/todo-gt/index.html",
+    "main.9976f68c.css.map": "/todo-gt/static/css/main.9976f68c.css.map",
+    "main.4a39cf25.js.map": "/todo-gt/static/js/main.4a39cf25.js.map",
+    "453.37753ddd.chunk.js.map": "/todo-gt/static/js/453.37753ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9976f68c.css",
+    "static/js/main.4a39cf25.js"
+  ]
+}
