@@ -19,7 +19,7 @@ function App() {
       <Main />
       <button
         onClick={sdfg}
-        className="btn"
+        className="btn run"
         type="button"
         onMouseEnter={handMouseEnter}
         style={{

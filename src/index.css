@@ -74,3 +74,14 @@ input::placeholder {
   text-decoration: line-through;
   color: cadetblue;
 }
+
+/* Стилі для мобільних пристроїв, які відрізняються */
+@media (max-width: 768px) {
+  .main {
+    max-width: 80%;
+  }
+
+  .run {
+    display: none;
+  }
+}
